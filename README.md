@@ -7,7 +7,7 @@ It features a collection of examples, exercises, and personal projects that refl
 
 ## Contents
 
-- **Examples** – Scripts demonstrating Python concepts.
-- **Exercises** – Practice problems and solutions.
+- **Examples** – code-along examples from video tutorials.
 - **Projects**
   - rock_paper_scissors.py
+  - simple_chatbot.py
