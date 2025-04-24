@@ -11,3 +11,4 @@ It features a collection of examples, exercises, and personal projects that refl
 - **Projects**
   - rock_paper_scissors.py
   - simple_chatbot.py
+  - die_rolling_simulator.py
